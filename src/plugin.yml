@@ -1,0 +1,12 @@
+main: com.theaetherserver.pvpflight.Main
+name: PVP Flight
+version: 2.1
+author: PinkSlime
+description: Disables flight in pvp
+commands:
+    pvpflight:
+        description: Places checks on PVP Flight.
+        usage: Used /pvpflight
+    updatepvpflight:
+        description: Updates PVP Flight if a new version is available.
+        usage: Used /updatepvpflight

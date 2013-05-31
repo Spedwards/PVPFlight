@@ -1,0 +1,9 @@
+ 
+ ############### 
+ # PVP Flight  # 
+ #     By      # 
+ # Pink__Slime # 
+ ############### 
+ 
+disable-flight-pvp: true
+disable-creative-pvp: true
